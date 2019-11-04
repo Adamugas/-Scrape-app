@@ -9,7 +9,7 @@
     "express": "^4.17.1",
     "express-handlebars": "^3.1.0",
     "moment": "^2.24.0",
-    "mongoose": "^5.6.1",
+    "mongoose": "^5.7.5",
     "morgan": "^1.9.1",
     "model": "^6.0.1",
     "require": "^2.4.20"
